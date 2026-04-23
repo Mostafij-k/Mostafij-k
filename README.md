@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Bioinformatics, Deep Learning, Generative AI**
 
-- 👯 I’m looking to collaborate on **Cancer Research, Bioinformatics, Machine Learning**
+- 👯 I’m looking to collaborate on **Cancer Biology, Bioinformatics, Machine Learning, Microbiology**
 
 - 🤝 I’m looking for help with **Cancer Project**
 
