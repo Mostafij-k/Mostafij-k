@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD MOSTAFIJUR RAHMAN</h1>
+<h1 align="center">Hi 👋, I'm Md. Mostafijur Rahman</h1>
 <h3 align="center">I am a passionate researcher with a keen interest in Cancer Biology, Host-Microbiome Interactions in Cancer, Antibiotic Resistance Mechanisms, Machine Learning, Deep Learning & Artificial Intelligence (AI), and Bioinformatics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafij-k&label=Profile%20views&color=0e75b6&style=flat" alt="mostafij-k" /> </p>
