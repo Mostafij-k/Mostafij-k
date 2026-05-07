@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafij-k" alt="mostafij-k" /></a> </p>
 
-- 🔭 I’m currently working on **Cancer Research Program**
+- 🔭 I’m currently exploring **Cancer Biology through Bioinformatics and Artificial Intelligence**
 
-- 🌱 I’m currently learning **Machine Learning, Bioinformatics, Deep Learning, Generative AI**
+- 🌱 I’m currently learning and applying **Machine Learning, Deep Learning, Generative AI and Bioinformatics in biomedical research**
 
-- 👯 I’m looking to collaborate on **Cancer Biology, Bioinformatics, Machine Learning, Microbiology**
+- 🤝 Open to collaboration on **Cancer Biology, Microbiology, Bioinformatics, Computational Biology, and AI-driven Healthcare Projects**
 
-- 🤝 I’m looking for help with **Cancer Project**
-
+- 🎯 Interested in developing **Affordable and precise cancer diagnostic and therapeutic strategies**
+  
 - 💬 Ask me about **Biology, Bioinformatics, Machine Learning, Deep Learning**
-
+  
 - 📫 How to reach me **mostafij306@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1lOVxyH9QtqJoNrgL07IjxyxCAGi0Iwne](https://drive.google.com/drive/u/0/folders/1lOVxyH9QtqJoNrgL07IjxyxCAGi0Iwne)
